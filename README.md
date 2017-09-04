@@ -1,6 +1,6 @@
 # Age and Gender Classification using Neural Networks
 
-This is a course project for the MSc in Business Analytics of the Athens University of Economics and Business. It primarily focuses on gender and age classification based on images. 
+This is a course project for the MSc in Business Analytics of the Athens University of Economics and Business. It primarily focuses on gender and age classification based on images. More specifically, the projects includes implementations of MLP and CNN models of multiple layers.
 
 Data accesss steps, in order to run scripts included:
 1) Download "faces only" files (wiki images) from https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki
@@ -8,10 +8,10 @@ Data accesss steps, in order to run scripts included:
 3) Run included matlab scripts, to create csv files. These files are used for loading the final data, from every python script of the project.
 
 Individuals involved in the project:
-Matthew Kampourakis
-Sofia Koutourini
-George Kyriakopoulos
-Nick Michail
+- Matthew Kampourakis
+- Sofia Koutourini
+- George Kyriakopoulos
+- Nick Michail
 
 ## Citations
 Dataset Reference
