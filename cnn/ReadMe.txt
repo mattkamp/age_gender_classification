@@ -1,10 +1,10 @@
-This is project for Social Network Analysis and Social Media Analytics 
-course in Maste in Business Analytics in AUEB 
+This is a project for Social Network Analysis and Social Media Analytics 
+course in Master in Business Analytics in AUEB 
 
-The goal was gender recognision of facial images. MLP and CNN neural networks 
-implementations where used with tensorflow library.
+The goal was gender recognition of facial images. MLP and CNN neural networks 
+implementations were used with tensorflow library.
 
-Preparation Utilities must run first in order the routines to be loaded in memory and then 
+Preparation Utilities must run first in order for the routines to be loaded in memory and then 
 the files run assuming that train_path variables point to a directory where the data exist 
 in files one for each class. 
 
